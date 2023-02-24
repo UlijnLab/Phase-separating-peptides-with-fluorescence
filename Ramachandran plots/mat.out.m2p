@@ -1,0 +1,55 @@
+;
+;	File 'mat.out.m2p' was generated
+;	By user: beicertapia (1000)
+;	On host: office-03
+;	At date: Wed Feb 16 16:02:03 2022
+;
+;	Created by:
+;	                     :-) GROMACS - gmx xpm2ps, 2020.3 (-:
+;	
+;	Executable:   /home/beicertapia/Programs/gromacs-2020.3_install/bin/gmx
+;	Data prefix:  /home/beicertapia/Programs/gromacs-2020.3_install
+;	Working dir:  /home/beicertapia/Data_files/Disaccharides/MD_10_Di/Core_01/run5
+;	Command line:
+;	  gmx xpm2ps -f angles12345.xpm -di mat.m2p -do mat.out.m2p -o angles12345.eps -frame -rainbow blue
+black&white              = no
+linewidth                = 1
+titlefont                = Helvetica
+titlefontsize            = 12
+legend                   = yes
+legendfont               = 
+legendlabel              = 
+legend2label             = 100
+legendfontsize           = 12
+xbox                     = 0.0
+ybox                     = 0.0
+matrixspacing            = 10
+xoffset                  = 50
+yoffset                  = 50
+boxlinewidth             = 1
+ticklinewidth            = 1
+zerolinewidth            = 1
+x-lineat0value           = none
+x-major                  = 30.0000
+x-minor                  = 15.0000
+x-firstmajor             = 0
+x-majorat0               = no
+x-majorticklen           = 10
+x-minorticklen           = 8
+x-label                  = Phi 
+x-fontsize               = 12
+x-font                   = Helvetica
+x-tickfontsize           = 12
+x-tickfont               = Helvetica
+y-lineat0value           = none
+y-major                  = 30.0000
+y-minor                  = 15.0000
+y-firstmajor             = 0
+y-majorat0               = no
+y-majorticklen           = 10
+y-minorticklen           = 8
+y-label                  = Psi
+y-fontsize               = 12
+y-font                   = Helvetica
+y-tickfontsize           = 12
+y-tickfont               = Helvetica
