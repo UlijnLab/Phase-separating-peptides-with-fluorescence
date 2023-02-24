@@ -1,0 +1,5 @@
+PRDF_20HGLGY_OW-Prot-H.xvg:      0.280  958.271
+PRDF_20HGLGY_prot_OW-Prot-H.xvg:      0.280 1142.241
+PRDF_20RGLGY_OW-Prot-H.xvg:      0.280 1222.476
+PRDF_20RGSGY_OW-Prot-H.xvg:      0.280 1411.319
+PRDF_20RSGSY_OW-Prot-H.xvg:      0.280 1608.933

@@ -1,0 +1,5 @@
+PRDF_20HGLGY_OW-Mainchain.xvg:      0.280  632.721
+PRDF_20HGLGY_prot_OW-Mainchain.xvg:      0.280  749.763
+PRDF_20RGLGY_OW-Mainchain.xvg:      0.280  724.413
+PRDF_20RGSGY_OW-Mainchain.xvg:      0.280  750.762
+PRDF_20RSGSY_OW-Mainchain.xvg:      0.280  761.757
